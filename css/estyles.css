@@ -13,7 +13,9 @@ body {
     padding: 1em;
     text-align: left;
     border: 1px solid #dddddd;
-    margin: 0 auto:
+    margin: 0 auto;
+    align-items: center;
+    
 }
 
 #container h1
