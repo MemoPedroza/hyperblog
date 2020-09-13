@@ -10,5 +10,6 @@ Un blog sencillo solo para el curso de Git y Github
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy 
 * Cread
+* Incluye ejemplos mac windows
 
 Y como amable recodarotio **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a (https://platzi.com/cursos/git-github/)
